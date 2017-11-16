@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>The New York Times</string>
+		<key>Image</key>
+		<string>NYTIMES.png</string>
+		<key>RssURL</key>
+		<string>http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Apple Developer</string>
+		<key>Image</key>
+		<string>Apple.png</string>
+		<key>RssURL</key>
+		<string>http://developer.apple.com/rss/iphonedevnews.rss</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Coding Horror</string>
+		<key>Image</key>
+		<string>coddinghorror.png</string>
+		<key>RssURL</key>
+		<string>http://feeds.feedburner.com/codinghorror/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Venture Beat</string>
+		<key>Image</key>
+		<string>VB.png</string>
+		<key>RssURL</key>
+		<string>http://venturebeat.com/feed/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cnet</string>
+		<key>Image</key>
+		<string>Cnet.png</string>
+		<key>RssURL</key>
+		<string>https://www.cnet.com/rss/news/</string>
+	</dict>
+</array>
+</plist>

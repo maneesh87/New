@@ -1,0 +1,827 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Home Page</title>
+    <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Sun, 12 Nov 2017 19:45:46 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Home Page</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Roy Moore, Donald Trump, Saudi Arabia: Your Weekend Briefing</title>
+      <link>https://www.nytimes.com/2017/11/12/briefing/roy-moore-donald-trump-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/briefing/roy-moore-donald-trump-saudi-arabia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/briefing/roy-moore-donald-trump-saudi-arabia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/11/briefing/12weekend-briefing-slide-86QH/12weekend-briefing-slide-86QH-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Hussein Malla/Associated Press</media:credit>
+      <description>Here&#x2019;s what you need to know about the week&#x2019;s top stories.</description>
+      <dc:creator>LOUIS LUCERO II and LANCE BOOTH</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 16:30:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asia and Australia Edition: North Korea, Saudi Arabia, Manila: Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2017/11/12/briefing/north-korea-saudi-arabia-manila.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/briefing/north-korea-saudi-arabia-manila.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/briefing/north-korea-saudi-arabia-manila.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/briefing/13BRIEFING-asia-slide-27XC/13BRIEFING-asia-slide-27XC-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>CHARLES McDERMID</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 19:10:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Breach and Spilled Secrets Have Shaken the N.S.A. to Its Core</title>
+      <link>https://www.nytimes.com/2017/11/12/us/nsa-shadow-brokers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/us/nsa-shadow-brokers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/us/nsa-shadow-brokers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/world/13shadowbrokers1/13shadowbrokers1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jake Williams, a former member of the National Security Agency&#x2019;s hacking unit. The Shadow Brokers, a mysterious group that obtained N.S.A. cybertools, identified his work for the agency on Twitter.</media:description>
+      <media:credit>Dustin Chambers for The New York Times</media:credit>
+      <description>A serial leak of the agency&#x2019;s cyberweapons has damaged morale, slowed intelligence operations and resulted in hacking attacks on businesses and civilians worldwide.</description>
+      <dc:creator>SCOTT SHANE, NICOLE PERLROTH and DAVID E. SANGER</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 18:32:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Shadow Brokers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Security Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Kaspersky Lab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Cyber Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WikiLeaks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Harold T III (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Snowden, Edward J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Meade (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>In &#x2018;Watershed Moment,&#x2019; YouTube Blocks Extremist Cleric&#x2019;s Message</title>
+      <link>https://www.nytimes.com/2017/11/12/us/politics/youtube-terrorism-anwar-al-awlaki.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/us/politics/youtube-terrorism-anwar-al-awlaki.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/us/politics/youtube-terrorism-anwar-al-awlaki.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/us/13dc-YouTube-sub/13dc-YouTube-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A search of YouTube today for the cleric Anwar al-Awlaki turns up just 18,600 videos, down from more than 70,000 this fall, and the vast majority are news reports about him, debates over the legality of his killing, refutations of his work by scholars or other material about him, rather than his jihadist propaganda.</media:description>
+      <media:credit/>
+      <description>The site has largely removed videos of Anwar al-Awlaki, Al Qaeda&#x2019;s leading voice in English before his death by drone &#x2014; and after, when he became a jihadist hero.</description>
+      <dc:creator>SCOTT SHANE</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 19:12:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Awlaki, Anwar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Trump Team Begins Drafting Middle East Peace Plan</title>
+      <link>https://www.nytimes.com/2017/11/11/world/middleeast/trump-peace-israel-palestinians.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/world/middleeast/trump-peace-israel-palestinians.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/world/middleeast/trump-peace-israel-palestinians.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/world/12MIDEAST/12MIDEAST-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump with Jared Kushner, his son-in-law and a senior adviser, at the White House in July. Mr. Kushner is leading efforts to broker a Middle East peace deal.</media:description>
+      <media:credit>Tom Brenner/The New York Times</media:credit>
+      <description>Led by the president&#x2019;s son-in-law, Jared Kushner, the White House team hopes to develop an American blueprint for resolving Israeli-Palestinian conflict.</description>
+      <dc:creator>PETER BAKER</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 15:53:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>After a Disciplined Week in Asia, Trump Unloads on Critics</title>
+      <link>https://www.nytimes.com/2017/11/12/world/asia/trump-asia-north-korea-short.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/world/asia/trump-asia-north-korea-short.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/world/asia/trump-asia-north-korea-short.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/world/13prexy-sub/13prexy-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump with President Tran Dai Quang of Vietnam at the Presidential Palace in Hanoi.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>In a stream of tweets, he called those raising questions about Russia &#x201C;haters and fools&#x201D; and said he could call North Korea&#x2019;s leader &#x201C;short and fat.&#x201D;</description>
+      <dc:creator>MARK LANDLER</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 16:51:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hanoi (Vietnam)</category>
+    </item>
+    <item>
+      <title>Duterte Warms to Trump, but Keeps His Focus on China</title>
+      <link>https://www.nytimes.com/2017/11/12/world/asia/trump-duterte-philippines-killing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/world/asia/trump-duterte-philippines-killing.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/world/asia/trump-duterte-philippines-killing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/world/13duterte1/13duterte1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump, left, with President Rodrigo Duterte of the Philippines and his partner, Cielito Avencana, in Manila on Sunday at a dinner honoring the Association of Southeast Asian Nations.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>The leader of the Philippines is &#x201C;talking as friends&#x201D; with the American president, but his long-term goal is a closer relationship with the Chinese.</description>
+      <dc:creator>RICHARD C. PADDOCK and FELIPE VILLAMOR</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 17:32:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Assn of Southeast Asian Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Trump Is Rapidly Reshaping the Judiciary. Here&#x2019;s How.</title>
+      <link>https://www.nytimes.com/2017/11/11/us/politics/trump-judiciary-appeals-courts-conservatives.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/us/politics/trump-judiciary-appeals-courts-conservatives.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/us/politics/trump-judiciary-appeals-courts-conservatives.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/us/12dc-judges1/12dc-judges1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Amul R. Thapar was confirmed to the Sixth Circuit Court of Appeals in May, a month after his Senate Judiciary Committee confirmation hearing.</media:description>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <description>Republican lawyers and lawmakers are working together to install conservative judges on the influential federal appeals courts at a clip not seen in decades.</description>
+      <dc:creator>CHARLIE SAVAGE</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 19:50:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Appeals Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federalist Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGahn, Donald F II</category>
+    </item>
+    <item>
+      <title>Trump Nominee for Federal Judgeship Has Never Tried a Case</title>
+      <link>https://www.nytimes.com/2017/11/11/us/brett-talley-judge-senate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/us/brett-talley-judge-senate.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/us/brett-talley-judge-senate.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/us/12xp-judge/12xpjudge-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Brett Talley, a deputy assistant attorney general at the Justice Department, has been approved for a lifetime federal district judgeship by the Senate Judiciary Committee.</media:description>
+      <media:credit>Liberty Day Institute, via YouTube</media:credit>
+      <description>The nominee, Brett Talley, was approved by a Senate committee despite his unanimous &#x201C;not qualified&#x201D; rating from the American Bar Association.</description>
+      <dc:creator>VIVIAN WANG</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 02:45:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talley, Brett (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate Committee on the Judiciary</category>
+    </item>
+    <item>
+      <title>Appeal Offers Hope for Newtown Families in Suit Against Gun Companies</title>
+      <link>https://www.nytimes.com/2017/11/12/nyregion/appeal-offers-hope-for-newtown-families-in-suit-against-gun-companies.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/nyregion/appeal-offers-hope-for-newtown-families-in-suit-against-gun-companies.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/nyregion/appeal-offers-hope-for-newtown-families-in-suit-against-gun-companies.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/09/nyregion/00sandyhook3/00sandyhook3-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>David and Francine Wheeler, whose 6-year-old son Benjamin was killed in the Sandy Hook Elementary School massacre, are plaintiffs in a lawsuit against the manufacturer of the weapon used in the mass killing.</media:description>
+      <media:credit>Jessica Hill/Associated Press</media:credit>
+      <description>The lawsuit brought by families of people killed at Sandy Hook relies on a novel strategy in attempt to hold gun companies responsible for the 2012 attack.</description>
+      <dc:creator>RICK ROJAS and KRISTIN HUSSEY</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 19:03:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newtown, Conn, Shooting (2012)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bushmaster Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sandy Hook Elementary School (Newtown, Conn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newtown (Conn)</category>
+    </item>
+    <item>
+      <title>Welcoming Worshipers With Open Arms and Concealed Ones, Too</title>
+      <link>https://www.nytimes.com/2017/11/10/us/church-shooting-security.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/10/us/church-shooting-security.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/10/us/church-shooting-security.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/11/us/11churchsecurity-01/11churchsecurity-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Rev. John Darsey of Redeemer Church of Madison in Madison, Ga., which has multiple layers of armed security.</media:description>
+      <media:credit>Kevin D. Liles for The New York Times</media:credit>
+      <description>After the massacre of 26 people at a small church in Texas, houses of worship are rethinking security plans and weighing them against the need to keep open doors.</description>
+      <dc:creator>LAURIE GOODSTEIN and RICHARD FAUSSET</dc:creator>
+      <pubDate>Fri, 10 Nov 2017 22:43:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sutherland Springs, Tex, Shooting (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">First Baptist Church (Sutherland Springs, Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gun Control</category>
+    </item>
+    <item>
+      <title>Roy Moore, Alabama Senate Candidate Under Siege, Tries to Discredit Accusers</title>
+      <link>https://www.nytimes.com/2017/11/11/us/roy-moore-alabama-senate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/us/roy-moore-alabama-senate.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/us/roy-moore-alabama-senate.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/us/12MOORE-01p/12MOORE-01p-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Roy Moore denied allegations of sexual misconduct at a Veterans Day event in Vestavia Hills, Ala.</media:description>
+      <media:credit>Marvin Gentry/Reuters</media:credit>
+      <description>Mr. Moore criticized the women who accused him of misconduct, and in a blow to Republican leaders, the governor refused to delay the election.</description>
+      <dc:creator>ALAN BLINDER and JONATHAN MARTIN</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 02:15:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Roy S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sex Crimes</category>
+    </item>
+    <item>
+      <title>Republicans Try to Block Moore&#x2019;s Path as Candidate Denies Sexual Misconduct</title>
+      <link>https://www.nytimes.com/2017/11/10/us/politics/roy-moore-alabama-republican.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/10/us/politics/roy-moore-alabama-republican.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/10/us/politics/roy-moore-alabama-republican.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/11/us/politics/11dc-alabama1/02dc-moore1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Roy S. Moore, the Republican candidate for Senate in Alabama, visited the Capitol last month to meet with members of his party.</media:description>
+      <media:credit>Jonathan Ernst/Reuters</media:credit>
+      <description>Republican leaders are searching for a way to block Roy Moore&#x2019;s path to the Senate, but the jurist remains defiant over charges that he made advances on teens.</description>
+      <dc:creator>JONATHAN MARTIN and ALEXANDER BURNS</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 03:07:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Roy S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Doug (1954- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Opinion: Why Christians Must Support Gun Control</title>
+      <link>https://www.nytimes.com/2017/11/11/opinion/sunday/christians-support-gun-control.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/opinion/sunday/christians-support-gun-control.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/opinion/sunday/christians-support-gun-control.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/opinion/sunday/12parker/12parker-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A man visited a memorial of crosses in Sutherland Springs, Tex., last week.</media:description>
+      <media:credit>Todd Heisler/The New York Times</media:credit>
+      <description>Machines regularly used to kill innocent people violate the core of our faith.</description>
+      <dc:creator>RICHARD PARKER</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 19:30:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sutherland Springs, Tex, Shooting (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Evangelical Movement</category>
+    </item>
+    <item>
+      <title>Opinion: Can My Children Be Friends With White People?</title>
+      <link>https://www.nytimes.com/2017/11/11/opinion/sunday/interracial-friendship-donald-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/opinion/sunday/interracial-friendship-donald-trump.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/opinion/sunday/interracial-friendship-donald-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/opinion/sunday/12yankah/12yankah-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Erin K. Robinson</media:credit>
+      <description>The rise of Donald Trump has broken bonds on all sides. But for people of color the stakes are different.</description>
+      <dc:creator>EKOW N. YANKAH</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 19:30:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Charlottesville, Va, Violence (August, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: The Swine of Conservatism</title>
+      <link>https://www.nytimes.com/2017/11/11/opinion/sunday/the-swine-of-conservatism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/opinion/sunday/the-swine-of-conservatism.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/opinion/sunday/the-swine-of-conservatism.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/opinion/sunday/12Douthat/12Douthat-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Roy Moore speaks at a rally in Fairhope, Ala., in September.</media:description>
+      <media:credit>Brynn Anderson/Associated Press</media:credit>
+      <description>Roy Moore and the distinctive predators of cultural conservatism.</description>
+      <dc:creator>ROSS DOUTHAT</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 19:30:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Roy S</category>
+    </item>
+    <item>
+      <title>Opinion: Being a Female Comic in Louis C.K.&#x2019;s World</title>
+      <link>https://www.nytimes.com/2017/11/10/opinion/sunday/louis-ck-harassment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/10/opinion/sunday/louis-ck-harassment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/10/opinion/sunday/louis-ck-harassment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/10/opinion/10kilmartin1web/10kilmartin1web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Christian Hansen for The New York Times</media:credit>
+      <description>The calculated risks of a life in comedy.</description>
+      <dc:creator>LAURIE KILMARTIN</dc:creator>
+      <pubDate>Fri, 10 Nov 2017 19:01:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">C K, Louis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: Jesus&#x2019; Parents and Roy Moore&#x2019;s Gall</title>
+      <link>https://www.nytimes.com/2017/11/10/opinion/sunday/roy-moore-molestation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/10/opinion/sunday/roy-moore-molestation.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/10/opinion/sunday/roy-moore-molestation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/opinion/sunday/12bruni/12bruni-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Ben Wiseman</media:credit>
+      <description>How selectively and hypocritically some Christians deploy the Bible.</description>
+      <dc:creator>FRANK BRUNI</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 00:27:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Roy S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bible</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+    </item>
+    <item>
+      <title>Opinion: The Power of the Courts Is Messing Up Politics</title>
+      <link>https://www.nytimes.com/2017/11/11/opinion/sunday/the-power-of-the-courts-is-messing-up-politics.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/opinion/sunday/the-power-of-the-courts-is-messing-up-politics.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/opinion/sunday/the-power-of-the-courts-is-messing-up-politics.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/opinion/sunday/12Weiner/12Weiner-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The United States Supreme Court.</media:description>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <description>Swollen beyond constitutional recognition, they distort the way elections are contested.</description>
+      <dc:creator>GREG WEINER</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 19:35:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bork, Robert H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamilton, Alexander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jefferson, Thomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Madison, James (1751-1836)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Earl Jr</category>
+    </item>
+    <item>
+      <title>Sporting: How the &#x2018;Shalane Flanagan Effect&#x2019; Works</title>
+      <link>https://www.nytimes.com/2017/11/11/opinion/sunday/shalane-flanagan-marathon-running.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/opinion/sunday/shalane-flanagan-marathon-running.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/opinion/sunday/shalane-flanagan-marathon-running.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/opinion/sunday/12crouse/12crouse-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Shalane Flanagan celebrated winning the New York City Marathon in Central Park on November 5.</media:description>
+      <media:credit>Elsa/Getty Images</media:credit>
+      <description>She does not just talk about elevating her fellow women runners; she elevates them. And they win.</description>
+      <dc:creator>LINDSAY CROUSE</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 19:30:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New York City Marathon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flanagan, Shalane</category>
+    </item>
+    <item>
+      <title>In Barcelona, Rajoy Calls for Record Turnout to Defeat Secessionism</title>
+      <link>https://www.nytimes.com/2017/11/12/world/europe/barcelona-mariano-rajoy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/world/europe/barcelona-mariano-rajoy.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/world/europe/barcelona-mariano-rajoy.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/world/13catalonia1/13catalonia1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Mariano Rajoy of Spain at a rally on Sunday in Barcelona.</media:description>
+      <media:credit>David Ramos/Getty Images</media:credit>
+      <description>In his first visit to Catalonia since taking control of the restive region, the Spanish prime minister urged Catalans to vote next month for a return to &#x201C;normality.&#x201D;</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 17:34:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajoy, Mariano</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Puigdemont, Carles (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catalonia (Spain)</category>
+    </item>
+    <item>
+      <title>With Iraqi-Kurdish Talks Stalled, Phone Diplomacy Averts New Clashes</title>
+      <link>https://www.nytimes.com/2017/11/12/world/middleeast/iraq-kurds-autonomous-borders.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/world/middleeast/iraq-kurds-autonomous-borders.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/world/middleeast/iraq-kurds-autonomous-borders.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/world/13iraq1/13iraq1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Iraqi security forces last month fired a rocket launcher at Kurdish pesh merga positions near the Fish Khabbour border crossings with Turkey and Syria.</media:description>
+      <media:credit>Ahmad Al-Rubaye/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Informal talks continue amid public acrimony, but the precise roles of some of the participants are elusive. So is a breakthrough.</description>
+      <dc:creator>MARGARET COKER</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 19:28:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barzani, Massoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talabani, Jalal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talabani, Qubad (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Erbil (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+    </item>
+    <item>
+      <title>Pakistani Cleric&#x2019;s Supporters Block an Entrance to Islamabad</title>
+      <link>https://www.nytimes.com/2017/11/12/world/asia/pakistan-protests-khadim-hussain-rizvi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/world/asia/pakistan-protests-khadim-hussain-rizvi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/world/asia/pakistan-protests-khadim-hussain-rizvi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/world/13pakistan-1/13pakistan-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pakistanis prayed in Islamabad on Friday during a protest to demand the removal of the country&#x2019;s law minister.</media:description>
+      <media:credit>B.K. Bangash/Associated Press</media:credit>
+      <description>Protesters led by the firebrand Khadim Hussain Rizvi staged a sit-in to demand the resignation of the country&#x2019;s law minister and strict adherence to blasphemy laws.</description>
+      <dc:creator>SALMAN MASOOD</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 17:34:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khadim Hussain Rizvi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Islamabad (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rawalpindi (Pakistan)</category>
+    </item>
+    <item>
+      <title>Slovenian President Appears to Be on Track to Win Second Term</title>
+      <link>https://www.nytimes.com/2017/11/12/world/europe/slovenia-election.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/world/europe/slovenia-election.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/world/europe/slovenia-election.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/world/13slovenia-1/13slovenia-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Borut Pahor, left, and his opponent, Marjan Sarec, at a debate in Ljubljana, Slovenia, last week, ahead of Sunday&#x2019;s runoff election.</media:description>
+      <media:credit>Srdjan Zivulovic/Reuters</media:credit>
+      <description>With over 90 percent of the votes counted, the challenger, Marjan Sarec, congratulated President Borut Pahor for winning a second term.</description>
+      <dc:creator>BARBARA SURK</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 19:43:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borut Pahor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marjan Sarec</category>
+    </item>
+    <item>
+      <title>N.F.L. Picks: Redskins Over Vikings; Patriots Over Broncos</title>
+      <link>https://www.nytimes.com/2017/11/09/sports/nfl-picks-predictions-week-10.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/09/sports/nfl-picks-predictions-week-10.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/09/sports/nfl-picks-predictions-week-10.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/sports/12nflpreview-rams/12nflpreview-rams-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Aaron Donald of the Los Angeles Rams leads a defense that deserves more credit for the team&#x2019;s success than it has received.</media:description>
+      <media:credit>Jae C. Hong/Associated Press</media:credit>
+      <description>The Los Angeles Rams, Dallas Cowboys and New England Patriots all seem primed for wins, but there is a quarterback controversy brewing in Minnesota.</description>
+      <dc:creator>BENJAMIN HOFFMAN</dc:creator>
+      <pubDate>Thu, 09 Nov 2017 17:26:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Football League</category>
+    </item>
+    <item>
+      <title>Trump Administration Guiding Health Shoppers to Agents Paid by Insurers</title>
+      <link>https://www.nytimes.com/2017/11/11/us/politics/obamacare-health-insurance-marketplace-agents.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/us/politics/obamacare-health-insurance-marketplace-agents.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/us/politics/obamacare-health-insurance-marketplace-agents.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/us/politics/12dc-health/merlin_129555794_bef90f0d-6543-4a97-810f-4ad8cb990dd6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An insurance agent met this month with people shopping for health insurance through the Affordable Care Act in Miami.</media:description>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <description>After cutting funds for nonprofits that help people obtain coverage under the Affordable Care Act, the government is encouraging the use of insurance agents and brokers.</description>
+      <dc:creator>ROBERT PEAR</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 20:27:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Patient Protection and Affordable Care Act (2010)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Marib Journal: As Yemen Crumbles, One Town Is an Island of Relative Calm</title>
+      <link>https://www.nytimes.com/2017/11/09/world/middleeast/yemen-marib-war-ice-cream.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/09/world/middleeast/yemen-marib-war-ice-cream.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/09/world/middleeast/yemen-marib-war-ice-cream.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/10/world/10yemen1/09yemen1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A school in Marib, Yemen. Marib is a relative bright spot in a nation that has seen very few in recent years.</media:description>
+      <media:credit>Sana Center for Strategic Studies</media:credit>
+      <description>Years of war have devastated much of Yemen, but a combination of oil wealth and security have allowed Marib to grow.</description>
+      <dc:creator>BEN HUBBARD</dc:creator>
+      <pubDate>Thu, 09 Nov 2017 18:13:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Refugees and Displaced Persons</category>
+    </item>
+    <item>
+      <title>The Neediest Cases Fund: Her Secret to a Long Life? &#x2018;It&#x2019;s Good to Work a Lot&#x2019;</title>
+      <link>https://www.nytimes.com/2017/11/12/nyregion/her-secret-to-a-long-life-its-good-to-work-a-lot.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/nyregion/her-secret-to-a-long-life-its-good-to-work-a-lot.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/nyregion/her-secret-to-a-long-life-its-good-to-work-a-lot.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/30/nyregion/00ncf-pevzner1/00ncf-pevzner1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Bella Pevzner, 89, at home in Brooklyn. As a teenager, she fled her home country of Belarus after the Nazis invaded it.</media:description>
+      <media:credit>Sasha Maslov for The New York Times</media:credit>
+      <description>As a teenager, Bella Pevzner fled Belarus after the Nazi invasion. She worked well into her 70s, and at 89, she is applying her dogged work ethic to her paintings.</description>
+      <dc:creator>JOHN OTIS</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 17:43:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Times Neediest Cases Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">UJA-Federation of New York</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Jewish Association Serving the Aging</category>
+    </item>
+    <item>
+      <title>Modern Love: What Love Looks Like</title>
+      <link>https://www.nytimes.com/2017/11/07/style/modern-love-couples-new-york-city.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/07/style/modern-love-couples-new-york-city.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/07/style/modern-love-couples-new-york-city.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/29/fashion/17ML-LAAR1/17ML-LAAR1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Daniel Arnold for The New York Times</media:credit>
+      <description>We set out to find couples in New York who would be willing to have their photo taken and to answer some personal questions. Here are 10 couples who agreed.</description>
+      <dc:creator>VALERIYA SAFRONOVA and DANIEL ARNOLD</dc:creator>
+      <pubDate>Wed, 08 Nov 2017 22:13:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Modern Love 13</category>
+    </item>
+    <item>
+      <title>Critic&#x2019;s Notebook: On &#x2018;The Good Doctor,&#x2019; the Anti-Antihero Is In</title>
+      <link>https://www.nytimes.com/2017/11/12/arts/television/the-good-doctor-freddie-highmore-abc.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/arts/television/the-good-doctor-freddie-highmore-abc.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/arts/television/the-good-doctor-freddie-highmore-abc.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/arts/13gooddoctor-1/12gooddoctor-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Freddie Highmore in &#x201C;The Good Doctor&#x201D; on ABC.</media:description>
+      <media:credit>Jack Rowand/ABC</media:credit>
+      <description>A decade after the rude genius of &#x201C;House,&#x201D; ABC&#x2019;s sentimental hit drama focuses on the &#x201C;care&#x201D; part of health care.</description>
+      <dc:creator>JAMES PONIEWOZIK</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 16:16:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">ABC Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Good Doctor (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Highmore, Freddie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shore, David (1959- )</category>
+    </item>
+    <item>
+      <title>Kenneth MacMillan&#x2019;s School of Ballet Sex, Neurosis and Grit</title>
+      <link>https://www.nytimes.com/2017/11/10/arts/dance/kenneth-macmillan-royal-ballet.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/10/arts/dance/kenneth-macmillan-royal-ballet.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/10/arts/dance/kenneth-macmillan-royal-ballet.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/arts/12macmillan1/12macmillan1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kenneth MacMillan rehearsing with the Sadler&#x2019;s Wells Theater Ballet in the 1950s.</media:description>
+      <media:credit>Hulton-Deutsch Collection/Corbis, via Getty Images</media:credit>
+      <description>A London celebration provided a chance to think about MacMillan&#x2019;s reputation and legacy 25 years after his death.</description>
+      <dc:creator>ROSLYN SULCAS</dc:creator>
+      <pubDate>Fri, 10 Nov 2017 17:57:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Royal Opera House</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">MacMillan, Kenneth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mayerling (Ballet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Royal Ballet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Birmingham Royal Ballet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">English National Ballet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Scottish Ballet</category>
+    </item>
+    <item>
+      <title>Cancer Doctors Cite Risks of Drinking Alcohol</title>
+      <link>https://www.nytimes.com/2017/11/07/well/live/cancer-doctors-cite-risks-of-drinking-alcohol.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/07/well/live/cancer-doctors-cite-risks-of-drinking-alcohol.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/07/well/live/cancer-doctors-cite-risks-of-drinking-alcohol.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/08/science/alcohol-wine/alcohol-wine-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
+      <description>Drinking alcohol, even modest amounts, increases the risk of breast cancer and other cancers.</description>
+      <dc:creator>RONI CARYN RABIN</dc:creator>
+      <pubDate>Tue, 07 Nov 2017 21:36:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Society of Clinical Oncology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Alcoholic Beverages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Alcohol Abuse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Head and Neck Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breast Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Esophageal Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Colon and Colorectal Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Liver Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Journal of Clinical Oncology</category>
+    </item>
+    <item>
+      <title>The Fix: Making Space for a Home Office</title>
+      <link>https://www.nytimes.com/2017/11/07/realestate/designing-home-office.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/07/realestate/designing-home-office.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/07/realestate/designing-home-office.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/realestate/12fix1/12fix1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Start by making a list of everything you need to work happily at home &#x2014; whether that&#x2019;s an abundance of storage space or natural light, as in this office designed by Vanessa Alexander.</media:description>
+      <media:credit>Tessa Neaustadt</media:credit>
+      <description>The best workspaces blend seamlessly into their surroundings &#x2014; and reflect the personalities of the people who use them.</description>
+      <dc:creator>MICHELLE HIGGINS</dc:creator>
+      <pubDate>Wed, 08 Nov 2017 20:53:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interior Design and Furnishings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Desks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Office Supplies and Equipment</category>
+    </item>
+    <item>
+      <title>A Lesson From the Biggest Losers: Exercise Keeps Off the Weight</title>
+      <link>https://www.nytimes.com/2017/10/31/health/biggest-losers-weight-loss.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/31/health/biggest-losers-weight-loss.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/31/health/biggest-losers-weight-loss.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/01/us/01LOSER1/31LOSER1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dr. Jennifer Kerns, an obesity specialist and former contestant on the &#x201C;Biggest Loser&#x201D; television show, co-authored a study that has found exercise is essential to keeping weight off.</media:description>
+      <media:credit>Greg Kahn for The New York Times</media:credit>
+      <description>Physical activity made all the difference to participants who managed to keep the pounds from returning, a new study finds.</description>
+      <dc:creator>GINA KOLATA</dc:creator>
+      <pubDate>Wed, 01 Nov 2017 20:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Calories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Institute of Diabetes and Digestive and Kidney Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Obesity (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Obesity Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Biggest Loser (TV Program)</category>
+    </item>
+    <item>
+      <title>The Look: Eternal Youth in Tompkins Square Park</title>
+      <link>https://www.nytimes.com/2017/11/11/style/eternal-youth-in-tompkins-square-park.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/style/eternal-youth-in-tompkins-square-park.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/style/eternal-youth-in-tompkins-square-park.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/fashion/12THELOOK1/12THELOOK1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Atticus Jones, 19 and Lola Daehler, 19 in Tompkins Square Park.</media:description>
+      <media:credit>Daniel Weiss for The New York Times</media:credit>
+      <description>The photographer Daniel Weiss found versions of his teenage self in the East Village of Manhattan.</description>
+      <dc:creator>DANIEL WEISS, THEODORE BARROW and EVE LYONS</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 11:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>For &#x2018;Saturday Night Live,&#x2019; No Shortage of Targets, Including Louis C.K. and Roy Moore</title>
+      <link>https://www.nytimes.com/2017/11/12/arts/television/snl-taylor-swift-tiffany-haddish.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/12/arts/television/snl-taylor-swift-tiffany-haddish.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/12/arts/television/snl-taylor-swift-tiffany-haddish.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/13/arts/13snl01/13snl01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mikey Day as Roy S. Moore and Beck Bennett as Vice President Mike Pence, who is trying to convince him to drop out of the Alabama Senate race.</media:description>
+      <media:credit>NBC</media:credit>
+      <description>The sexual misdeeds of prominent men gave &#x201C;S.N.L.&#x201D; plenty of topical grist. But some of the accused came in for tougher treatment than others.</description>
+      <dc:creator>DAVE ITZKOFF</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 09:25:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haddish, Tiffany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Saturday Night Live (TV Program)</category>
+    </item>
+    <item>
+      <title>Rap Disrupted Music First. Now It&#x2019;s TV and Film.</title>
+      <link>https://www.nytimes.com/2017/11/09/arts/music/hip-hop-on-tv-questlove-the-roots-the-mayor.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/09/arts/music/hip-hop-on-tv-questlove-the-roots-the-mayor.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/09/arts/music/hip-hop-on-tv-questlove-the-roots-the-mayor.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/arts/12raptv-convo1/12raptv-convo1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Questlove, the drummer of the Roots, remembers an unfinished skit from &#x201C;Chappelle&#x2019;s Show&#x201D; based on a song by the rapper Nas.</media:description>
+      <media:credit>Driely Schwartz Vieira for The New York Times</media:credit>
+      <description>Questlove, Salamishah Tillet and Jon Caramanica discuss depictions of rap&#x2019;s old-school days as well as new series and movies with hip-hop embedded into their frameworks.</description>
+      <dc:creator>QUESTLOVE, SALAMISHAH TILLET and JON CARAMANICA</dc:creator>
+      <pubDate>Thu, 09 Nov 2017 10:00:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Ahmir (Questlove)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillet, Salamishah</category>
+    </item>
+    <item>
+      <title>In Catalonia, a Church Becomes a Place of Artistic Pilgrimage</title>
+      <link>https://www.nytimes.com/2017/10/25/t-magazine/santi-moix-catalonia-st-victor-church.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/25/t-magazine/santi-moix-catalonia-st-victor-church.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/25/t-magazine/santi-moix-catalonia-st-victor-church.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/t-magazine/santimoix-slide-NHLQ/santimoix-slide-NHLQ-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>An interior view of St. Victor as it prepares to reopen to the public after three years. In this section, overlooking the altar, the muralist Santi Moix included verses by the Catalan poet Josep Vicen&#xE7; Foix.</media:description>
+      <media:credit>Ricardo Labougle</media:credit>
+      <description>The muralist Santi Moix has completely transformed the 1,100-year-old St. Victor &#x2014; joining the list of contemporary artists remaking religious spaces.</description>
+      <dc:creator>KATIE CHANG</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 16:37:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catalonia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+    </item>
+    <item>
+      <title>Where to Go Now: Finally, You Can Have Breakfast at Tiffany</title>
+      <link>https://www.nytimes.com/2017/11/11/travel/tiffany-and-co-jewelry-breakfast-audrey-hepburn.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/travel/tiffany-and-co-jewelry-breakfast-audrey-hepburn.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/travel/tiffany-and-co-jewelry-breakfast-audrey-hepburn.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/10/travel/10tiffany1/10tiffany1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Blue Box Caf&#xE9; at the flagship Tiffany &amp; Co. store in New York City.</media:description>
+      <media:credit>Tiffany &amp; Co., via Associated Press</media:credit>
+      <description>Tiffany &amp; Co. opened the first-ever caf&#xE9; at its flagship New York store, where visitors can now have breakfast and channel Audrey Hepburn.</description>
+      <dc:creator>JOHN L. DORMAN</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 18:02:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tiffany &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hepburn, Audrey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title> The New Old Age: No Excuses, People: Get the New Shingles Vaccine</title>
+      <link>https://www.nytimes.com/2017/11/10/health/shingrix-shingles-vaccine.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/10/health/shingrix-shingles-vaccine.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/10/health/shingrix-shingles-vaccine.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/14/science/14SPAN/14SPAN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>David Plunkert</media:credit>
+      <description>Shingrix, which begins shipping this month, is far more effective than the previous shingles shot. Experts recommend it for everyone over age 50.</description>
+      <dc:creator>PAULA SPAN</dc:creator>
+      <pubDate>Sun, 12 Nov 2017 14:20:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shingles (Disease)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">GlaxoSmithKline PLC</category>
+    </item>
+    <item>
+      <title>Get Lost in a Giant Bamboo Labyrinth</title>
+      <link>https://www.nytimes.com/video/world/europe/100000005511493/get-lost-in-a-giant-bamboo-labyrinth-parma-italy-masone-360.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000005511493/get-lost-in-a-giant-bamboo-labyrinth-parma-italy-masone-360.html</guid>
+      <description>The Labirinto della Masone, in Parma, Italy, is a dream come true of the Italian publisher Franco Maria Ricci, who set out to build the largest labyrinth in the world.</description>
+      <dc:creator/>
+      <pubDate>Sun, 12 Nov 2017 10:00:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Bamboo</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Parma (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Italy</category>
+    </item>
+    <item>
+      <title>In Search of Silence </title>
+      <link>https://www.nytimes.com/2017/11/11/style/in-search-of-silence.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/11/style/in-search-of-silence.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/11/style/in-search-of-silence.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/12/fashion/12SILENCE-1/12SILENCE-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Erling Kagge in the gardens at the Church of St. Luke in the Fields. His first stop on a quest to find silence. </media:description>
+      <media:credit>George Etheredge for The New York Times</media:credit>
+      <description>A Norwegian explorer seeks one of New York's most elusive commodities.</description>
+      <dc:creator>STEVEN KURUTZ</dc:creator>
+      <pubDate>Sat, 11 Nov 2017 11:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voices: A Gay Husband, a Dire Diagnosis and the Best-Laid Plans</title>
+      <link>https://www.nytimes.com/2017/11/09/well/live/lung-cancer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/09/well/live/lung-cancer.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/09/well/live/lung-cancer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/14/science/well-peress/well-peress-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Eduardo Luzzatti</media:credit>
+      <description>I was just as unprepared to hear my doctor say &#x201C;lung cancer&#x201D; as I had been to hear my husband say &#x201C;I&#x2019;m gay.&#x201D;</description>
+      <dc:creator>DANIELLE PERESS, M.D.</dc:creator>
+      <pubDate>Thu, 09 Nov 2017 11:00:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lungs</category>
+    </item>
+    <item>
+      <title>The Interpreter: What Explains U.S. Mass Shootings? International Comparisons Suggest an Answer</title>
+      <link>https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/07/world/07int-shootings2/07int-shootings2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Outside the First Baptist Church of Sutherland Springs, Tex., after a mass shooting on Sunday.</media:description>
+      <media:credit>Callie Richmond for The New York Times</media:credit>
+      <description>Americans advance a lot of theories for why they have so many more gun deaths than other countries do. The answer is lying in plain sight.</description>
+      <dc:creator>MAX FISHER and JOSH KELLER</dc:creator>
+      <pubDate>Thu, 09 Nov 2017 22:15:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sutherland Springs, Tex, Shooting (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: Anniversary of the Apocalypse</title>
+      <link>https://www.nytimes.com/2017/11/06/opinion/anniversary-trump-clinton-election.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/06/opinion/anniversary-trump-clinton-election.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/06/opinion/anniversary-trump-clinton-election.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/07/opinion/07goldbergWeb/07goldbergWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Donald Trump on election night, a year ago Wednesday.</media:description>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+      <description>The once-unthinkable is becoming ordinary.</description>
+      <dc:creator>MICHELLE GOLDBERG</dc:creator>
+      <pubDate>Tue, 07 Nov 2017 00:36:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>At the Met Opera, a Note So High, It&#x2019;s Never Been Sung Before</title>
+      <link>https://www.nytimes.com/2017/11/07/arts/music/metropolitan-opera-high-note-exterminating-angel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/07/arts/music/metropolitan-opera-high-note-exterminating-angel.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/07/arts/music/metropolitan-opera-high-note-exterminating-angel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/06/arts/06HIGHNOTES1/06HIGHNOTES1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Audrey Luna, with (background, from left) John Tomlinson, Fr&#xE9;d&#xE9;ric Antoun and David Adam Moore in &#x201C;The Exterminating Angel&#x201D; at the Metropolitan Opera.</media:description>
+      <media:credit>Emon Hassan for The New York Times</media:credit>
+      <description>It&#x2019;s an A above high C &#x2014; the equivalent of a pole vault to the sun. Few performers can hit it, but it&#x2019;s a requirement in &#x201C;The Exterminating Angel.&#x201D;</description>
+      <dc:creator>ZACHARY WOOLFE</dc:creator>
+      <pubDate>Tue, 07 Nov 2017 19:31:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Metropolitan Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ades, Thomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luna, Audrey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Exterminating Angel (Opera)</category>
+    </item>
+    <item>
+      <title>Air Travelers Resisting the &#x2018;Incredible Shrinking Airline Seat&#x2019;</title>
+      <link>https://www.nytimes.com/2017/11/06/business/airline-seat.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/11/06/business/airline-seat.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/11/06/business/airline-seat.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/11/07/business/07ITINERARIES1/07ITINERARIES1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Passengers aboard an Allegiant Air flight. Many small and large carriers have been finding ways to put more, smaller seats in cabins.</media:description>
+      <media:credit>Joe Giron for The New York Times</media:credit>
+      <description>Thinner, smaller airline seats have allowed carriers to squeeze in more passengers. But travelers have begun to rebel against reduced legroom, citing safety.</description>
+      <dc:creator>MARTHA C. WHITE</dc:creator>
+      <pubDate>Tue, 07 Nov 2017 01:33:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Spirit Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Flyers Rights</category>
+    </item>
+  </channel>
+</rss>
